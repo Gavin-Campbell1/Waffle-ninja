@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waffle-ninja
-- 👀 I’m interested in the whole software development journey.
-- 🌱 I’m currently learning HTML, CSS and Java Script.
-- 💞️ I’m looking to collaborate on any entry level projects. I'm keen to gain as much experience as possible. I'm loving the start of this coding journey. 
+- 👀 I’m interested in becoming usedul in software development. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on any entry level projects. I'm keen to gain as much experience as possible. 
 - 📫 How to reach me gavincampbelltr@gmail.com
 
 <!---
